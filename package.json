@@ -1,0 +1,16 @@
+{
+	"name": "jkgaming",
+	"version": "1.0.0",
+	"description": "Portfolio Website of mine",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"dev": "nodemon server.js"
+	},
+	"author": "Jadeja Karmarajsinh",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"pug": "^3.0.2"
+	}
+}
